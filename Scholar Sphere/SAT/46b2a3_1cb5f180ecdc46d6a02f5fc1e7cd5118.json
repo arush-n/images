@@ -1,0 +1,966 @@
+{
+  "test_name": "BETA Test 1",
+  "test_id": "a7f5c7d8-81b4-4e9e-8b15-c3d7e5f5b62e",
+  "modules": [
+    {
+      "module_id": 1,
+      "subject": "Reading and Writing",
+      "questions": [
+        {
+          "question_id": "c1e9f5a8-3b2e-4b1e-8c15-e5d9f4a8b3c7",
+          "number": 1,
+          "text": "Which choice completes the text with the most logical and precise word or phrase?",
+          "choices": ["examples of", "concerns about", "indications of", "similarities with"],
+          "passage": "Though not closely related, the hedgehog tenrecs of Madagascar share basic <u>_______</u> true hedgehogs, including protective spines, pointed snouts, and small body size—traits the two groups of mammals independently developed in response to equivalent roles in their respective habitats.",
+          "answer": "D",
+          "explanation": "The best choice is 'similarities with' because it is the most logical and precise phrase that completes the sentence correctly.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "d1f9e6b8-4c3e-4b2e-8c16-f5d9e5a9b3d8",
+          "number": 2,
+          "text": "Which choice completes the text with the most logical and precise word or phrase?",
+          "choices": ["a prudently", "an overtly", "a cordially", "an inadvertently"],
+          "passage": "In editor Lisa Yaszek’s introduction to her anthology <i>The Future Is Female! More Classic Science Fiction Stories by Women</i>, Yaszek identifies an increasing sense of <u>_______</u> feminist mode of writing in the 1970s, in contrast to many woman-authored science fiction stories of the 1920s to 1960s whose politics were less deliberately signaled.",
+          "answer": "B",
+          "explanation": "The best choice is 'an overtly' because it accurately completes the sentence to convey the intended meaning of the text.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "e2f8d7b9-5d4e-4b3e-8c17-f5d9e6a9b3e9",
+          "number": 3,
+          "text": "Which choice completes the text with the most logical and precise word or phrase?",
+          "choices": ["Exacerbating", "Redressing", "Epitomizing", "Precluding"],
+          "passage": "<u>_______</u> the long-standing trend of overemphasizing teenagers and young adults in research on social media use, scholars have recently begun to expand their focus to include the fastest-growing cohort of social media users: senior citizens.",
+          "answer": "B",
+          "explanation": "The best choice is 'Redressing' because it accurately completes the sentence to convey the intended meaning of the text.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "f3e8d6c9-6d5e-4b4e-8c18-f5d9e7a9b3e0",
+          "number": 4,
+          "text": "As used in the text, what does the word 'disputing' most nearly mean?",
+          "choices": ["Arguing about", "Disapproving of", "Asserting possession of", "Providing resistance to"],
+          "passage": "The multitude of Paris seems to be dressed in blue every day but Sunday, when, for the most part, they put on an unbelievably festive black. Here they were now, in blue, <u>disputing</u>, every inch, our passage, with their wagons, handtrucks, their bursting baskets carried at an angle steeply self-confident on the back.",
+          "answer": "D",
+          "explanation": "The best choice is 'Providing resistance to' because it accurately captures the context in which 'disputing' is used in the passage.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "g4e7d5b0-7d6e-4b5e-8c19-f5d9e8a9b3e1",
+          "number": 5,
+          "text": "Which choice completes the text with the most logical and precise word or phrase?",
+          "choices": ["controversial among", "antagonistic toward", "imitated by", "inconsequential to"],
+          "passage": "While recent scholarship has undermined claims that the works of twelfth-century Islamic philosopher Ibn Rushd were <u>_______</u> other Muslim philosophers of his time, it is indisputable that his location in the Muslim-ruled area of what is now Spain meant that his works were primarily available thousands of miles west of the era’s center of Islamic thought.",
+          "answer": "D",
+          "explanation": "The best choice is 'inconsequential to' because it accurately completes the sentence to convey the intended meaning of the text.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "h5e6d4c1-8d7e-4b6e-8c20-f5d9e9a9b3e2",
+          "number": 6,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It elaborates on the previous sentence’s statement about a transitional moment in Johnson’s artistic career.", "It provides information about Johnson’s travels in support of a claim about his artistic influences, which is advanced in the following sentence.", "It recounts a moment in Johnson’s personal life that enabled the success of his subsequent career, which is summarized in the following sentence.", "It presents evidence that calls into question the previous sentence’s characterization of Johnson’s artistic development."],
+          "passage": "On painter William H. Johnson’s return to the United States in 1938 after a decade in Europe, his style underwent an abrupt transformation. Turning away from landscapes painted in an expressionist style—a style that often involves using fluid, distorted shapes and thick, textured brushstrokes to express the artist’s subjective experience of reality—Johnson began painting portraits of Black Americans in a bold new way. Evocative of African sculpture and American and Scandinavian folk art, these portraits feature flat, deliberately oversimplified figures in a vibrant but limited color palette.",
+          "answer": "A",
+          "explanation": "The best choice is 'It elaborates on the previous sentence’s statement about a transitional moment in Johnson’s artistic career.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "i6e5d3b2-9d8e-4b7e-8c21-f5d9e0a9b3e3",
+          "number": 7,
+          "text": "Which choice best states the main purpose of the text?",
+          "choices": ["To provide details about how Argerich identifies which pieces of music she will perform", "To assert that Argerich’s performances look effortless because of how she prepares for them", "To discuss the kinds of music Argerich feels most comfortable encountering for the first time", "To describe the unique way that Argerich approaches music she hasn’t performed before"],
+          "passage": "When classical pianist Martha Argerich performs, it appears as if the music is coming to her spontaneously. She’s highly skilled technically, but because of how freely she plays and her willingness to take risks, she seems relaxed and natural. Her apparent ease, however, is due to a tremendous amount of preparation. Despite Argerich’s experience and virtuosity, she never takes for granted that she knows a piece of music. Instead, she approaches the music as if encountering it for the first time and tries to understand it anew.",
+          "answer": "B",
+          "explanation": "The best choice is 'To assert that Argerich’s performances look effortless because of how she prepares for them' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "j7e4d2c3-0d9e-4b8e-8c22-f5d9e1a9b3e4",
+          "number": 8,
+          "text": "Which choice best describes the function of the underlined portion in the text as a whole?",
+          "choices": ["It implies that Israel treasures a particular characteristic of his personality when that characteristic should usually be regarded as a flaw.", "It suggests that if not for a certain aspect of his character, Israel might not have been as easily thwarted in his ambition to establish a farm.", "It shows why Israel would not have been able to undertake the enormous amount of labor necessary to run a farm even if he had owned the necessary property.", "It explains why, when the situation requires it, Israel is able to undertake courageous acts that others would generally avoid."],
+          "passage": "He hired himself out for three months; at the end of that time to receive for his wages two hundred acres of land lying in New Hampshire. [...] His employer proving false to the contract in the matter of the land, and there being no law in the country to force him to fulfil it, Israel—who, however brave-hearted, and even much of a dare-devil upon a pinch, seems nevertheless to have evinced, throughout many parts of his career, a singular patience and mildness—was obliged to look round for other means of livelihood than clearing out a farm for himself in the wilderness.",
+          "answer": "D",
+          "explanation": "The best choice is 'It explains why, when the situation requires it, Israel is able to undertake courageous acts that others would generally avoid.' because it accurately captures the function of the underlined portion in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "k8e3d1b4-1dae-4b9e-8c23-f5d9e2a9b3e5",
+          "number": 9,
+          "text": "Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?",
+          "choices": ["By questioning the idea that the story of <i>The Nutcracker</i> is stuck in the past and by rejecting the suggestion that contemporary audiences would enjoy an updated version", "By agreeing that contemporary audiences have largely stopped going to see performances of <i>The Nutcracker</i> because it’s so old-fashioned", "By pointing out that most dance companies could increase their incomes by offering modernized versions of <i>The Nutcracker</i>", "By suggesting that dance companies should consider offering revised versions of <i>The Nutcracker</i> instead of completely rejecting the show"],
+          "passage": "Text 1: In 1954 George Balanchine choreographed a production of <i>The Nutcracker</i>, a ballet by Pyotr Ilyich Tchaikovsky. It has since become a tradition for hundreds of dance companies in North America to stage <i>The Nutcracker</i> each year. But the show is stuck in the past, with an old-fashioned story and references, so it should no longer be produced. Ballet needs to create new traditions if it wants to stay relevant to contemporary audiences. Text 2: <i>The Nutcracker</i> is outdated, but it should be kept because it’s a holiday favorite and provides substantial income for some dance companies. Although it can be behind the times, there are creative ways to update the show. For example, Debbie Allen successfully modernized the story. Her show <i>Hot Chocolate Nutcracker</i> combines ballet, tap, hip-hop, and other styles, and it has been gaining in popularity since it opened in 2009.",
+          "answer": "D",
+          "explanation": "The best choice is 'By suggesting that dance companies should consider offering revised versions of <i>The Nutcracker</i> instead of completely rejecting the show' because it accurately captures the likely response based on the texts.",
+          "topic": "Cross-Text Connections"
+        },
+        {
+          "question_id": "l9e2d0c5-2dae-4bae-8c24-f5d9e3a9b3e6",
+          "number": 10,
+          "text": "Which choice best states the main idea of the text?",
+          "choices": ["Medina-Alcaide and her team’s study demonstrated that fireplaces were essential to the creators of Paleolithic cave art.", "Medina-Alcaide and her team discovered that Paleolithic cave artists in Spain used animal-fat lamps more often than they used torches.", "Medina-Alcaide and her team were reluctant to draw many conclusions from their study because of the difficulty they had replicating light sources based on known artifacts.", "Medina-Alcaide and her team tested Paleolithic light sources and learned some details about how Paleolithic artists traveled within dark caves."],
+          "passage": "To understand how Paleolithic artists navigated dark caves, archaeologist Ma Ángeles Medina-Alcaide and her team tested different lighting methods in a cave in Spain using replicas of artifacts found in European caves with art. They used three different Paleolithic light sources—torches, animal-fat lamps, and fireplaces—determining that each likely had a specific purpose. For instance, the team learned that the animal-fat lamps were less useful than torches while walking because the lamps didn’t illuminate the cave floor.",
+          "answer": "D",
+          "explanation": "The best choice is 'Medina-Alcaide and her team tested Paleolithic light sources and learned some details about how Paleolithic artists traveled within dark caves.' because it accurately captures the main idea of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "m0e1d9c6-3dbf-4b9e-8c25-f5d9e4a9b3e7",
+          "number": 11,
+          "text": "The student wants to indicate which category most routine diplomatic correspondence belongs in, based on how sensitive information is classified. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+          "choices": ["Most routine diplomatic correspondence is classified as Confidential because its disclosure could cause damage to national security.", "Most routine diplomatic correspondence is classified as Secret because its disclosure could cause serious damage to national security.", "Most routine diplomatic correspondence is classified as Confidential because its disclosure could cause serious damage to national security.", "Most routine diplomatic correspondence is classified as Secret because its disclosure could cause damage to national security."],
+          "passage": "While researching a topic, a student has taken the following notes:<br>• The US government classifies sensitive information according to the degree to which disclosure could affect the nation’s security.<br>• Information that could cause “damage” to national security is classified as Confidential.<br>• Information that could cause “serious damage” to national security is classified as Secret.<br>• Most routine diplomatic correspondence, if disclosed, could cause damage but not serious damage to national security.<br>• Diplomatic correspondence includes communication with both allies and adversaries.",
+          "answer": "A",
+          "explanation": "The best choice is 'Most routine diplomatic correspondence is classified as Confidential because its disclosure could cause damage to national security.' because it accurately uses the relevant information from the notes.",
+          "topic": "Information and Ideas"
+        },
+        {
+          "question_id": "n1d0c8e7-4ebf-4b0e-8c26-f5d9e5a9b3e8",
+          "number": 12,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It summarizes the impact of a specific event on the protagonist’s character development.", "It contrasts the protagonist’s expectations with the reality of the situation.", "It introduces a pivotal moment that changes the direction of the narrative.", "It provides background information that helps explain the protagonist’s motivations."],
+          "passage": "As Emma walked through the bustling market, she couldn’t help but feel a sense of unease. The bright colors and lively chatter that usually brought her joy now seemed overwhelming. She recalled the calm and quiet of her hometown, wishing she could return. But she knew that her future lay in the city, no matter how daunting it seemed.",
+          "answer": "B",
+          "explanation": "The best choice is 'It contrasts the protagonist’s expectations with the reality of the situation.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "o2c9e7d8-5fdf-4b1e-8c27-f5d9e6a9b3e9",
+          "number": 13,
+          "text": "Which choice best states the main idea of the text?",
+          "choices": ["The protagonist’s journey is filled with unexpected challenges.", "The protagonist finds solace in memories of their past.", "The protagonist’s determination helps them overcome obstacles.", "The protagonist struggles to adapt to a new environment."],
+          "passage": "As Emma walked through the bustling market, she couldn’t help but feel a sense of unease. The bright colors and lively chatter that usually brought her joy now seemed overwhelming. She recalled the calm and quiet of her hometown, wishing she could return. But she knew that her future lay in the city, no matter how daunting it seemed.",
+          "answer": "D",
+          "explanation": "The best choice is 'The protagonist struggles to adapt to a new environment.' because it accurately captures the main idea of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "p3b8e6d9-6fef-4b2e-8c28-f5d9e7a9b3f0",
+          "number": 14,
+          "text": "Which choice completes the text with the most logical and precise word or phrase?",
+          "choices": ["enthusiastic about", "indifferent to", "disappointed by", "convinced of"],
+          "passage": "The committee members were <u>_______</u> the proposed changes, believing that they would greatly improve the efficiency of the organization.",
+          "answer": "A",
+          "explanation": "The best choice is 'enthusiastic about' because it accurately completes the sentence to convey the intended meaning of the text.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "q4a7e5d0-7fgf-4b3e-8c29-f5d9e8a9b3f1",
+          "number": 15,
+          "text": "Which choice best describes the tone of the text?",
+          "choices": ["Humorous", "Reflective", "Ironic", "Persuasive"],
+          "passage": "As the sun set behind the mountains, casting long shadows across the valley, Sarah sat on the porch, lost in thought. The day had been long and tiring, but there was a sense of accomplishment in the air. She reflected on the events of the day, feeling a deep connection to the land and the people who had worked alongside her.",
+          "answer": "B",
+          "explanation": "The best choice is 'Reflective' because it accurately captures the tone of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "r5e6d4c1-8hgf-4b4e-8c30-f5d9e9a9b3f2",
+          "number": 16,
+          "text": "Which choice best states the main purpose of the text?",
+          "choices": ["To describe a significant historical event", "To explain a scientific concept", "To narrate a personal experience", "To argue for a specific point of view"],
+          "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the spread of knowledge. It allowed for the mass production of books, making information more accessible to the general public and paving the way for the Renaissance and the scientific revolution.",
+          "answer": "A",
+          "explanation": "The best choice is 'To describe a significant historical event' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "s6d5c3b2-9ijf-4b5e-8c31-f5d9e0a9b3f3",
+          "number": 17,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It provides a counterargument to the main claim of the text.", "It offers an example to support the main argument.", "It introduces a new perspective on the topic.", "It summarizes the main point of the text."],
+          "passage": "The rapid advancement of technology has led to significant changes in the way we communicate. While some argue that these changes have made our interactions less personal, others believe that technology has enabled us to connect with more people than ever before. For example, social media platforms allow individuals to maintain relationships with friends and family across the globe.",
+          "answer": "B",
+          "explanation": "The best choice is 'It offers an example to support the main argument.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "t7c4d2b3-0kjf-4b6e-8c32-f5d9e1a9b3f4",
+          "number": 18,
+          "text": "Which choice best states the main idea of the text?",
+          "choices": ["The benefits of exercise outweigh the risks.", "Regular physical activity can improve mental health.", "Exercise is the key to a long and healthy life.", "Physical fitness is essential for overall well-being."],
+          "passage": "Numerous studies have shown that regular physical activity can have a profound impact on mental health. Exercise has been found to reduce symptoms of depression and anxiety, improve mood, and increase overall feelings of well-being. Additionally, engaging in physical activity can help to improve sleep quality and boost self-esteem.",
+          "answer": "B",
+          "explanation": "The best choice is 'Regular physical activity can improve mental health.' because it accurately captures the main idea of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "u8b3e1d4-1lfj-4b7e-8c33-f5d9e2a9b3f5",
+          "number": 19,
+          "text": "Which choice completes the text with the most logical and precise word or phrase?",
+          "choices": ["inspired by", "in contrast to", "unrelated to", "similar to"],
+          "passage": "The new software program was developed <u>_______</u> existing systems but incorporates several innovative features that set it apart.",
+          "answer": "D",
+          "explanation": "The best choice is 'similar to' because it accurately completes the sentence to convey the intended meaning of the text.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "v9a2d0c5-2mgk-4b8e-8c34-f5d9e3a9b3f6",
+          "number": 20,
+          "text": "Which choice best describes the author's attitude toward the subject?",
+          "choices": ["Skeptical", "Supportive", "Indifferent", "Critical"],
+          "passage": "The recent surge in renewable energy projects has been met with widespread approval. Many experts believe that investing in clean energy sources is essential for combating climate change and ensuring a sustainable future. The author argues that while there are challenges to overcome, the benefits of renewable energy far outweigh the drawbacks.",
+          "answer": "B",
+          "explanation": "The best choice is 'Supportive' because it accurately captures the author's attitude toward the subject.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "w0d1c8e6-3nhg-4b9e-8c35-f5d9e4a9b3f7",
+          "number": 21,
+          "text": "Which choice best describes the main purpose of the text?",
+          "choices": ["To provide an overview of a new scientific discovery", "To explain the significance of a historical event", "To argue for the adoption of a particular policy", "To describe the process of a technological innovation"],
+          "passage": "The discovery of penicillin by Alexander Fleming in 1928 marked a turning point in medical history. This groundbreaking antibiotic revolutionized the treatment of bacterial infections and saved countless lives. Fleming's discovery laid the foundation for modern antibiotics and ushered in a new era of medicine.",
+          "answer": "A",
+          "explanation": "The best choice is 'To provide an overview of a new scientific discovery' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "x1c0e7d9-4ohg-4b0e-8c36-f5d9e5a9b3f8",
+          "number": 22,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It provides evidence to support a claim made earlier in the text.", "It introduces a new argument that challenges the main point of the text.", "It offers a counterexample to a statement made in the previous paragraph.", "It summarizes the main findings of a recent study."],
+          "passage": "Climate change is one of the most pressing issues of our time. Scientists have observed significant changes in weather patterns, rising sea levels, and increased frequency of extreme weather events. A recent study found that global temperatures have risen by an average of 1.2 degrees Celsius since the pre-industrial era, highlighting the urgent need for action.",
+          "answer": "A",
+          "explanation": "The best choice is 'It provides evidence to support a claim made earlier in the text.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "y2b9e6d0-5phg-4b1e-8c37-f5d9e6a9b3f9",
+          "number": 23,
+          "text": "Which choice best states the main idea of the text?",
+          "choices": ["The impact of social media on society", "The importance of digital literacy in the modern world", "The challenges of regulating online content", "The role of technology in shaping human behavior"],
+          "passage": "In today's digital age, the influence of social media on society cannot be overstated. Platforms like Facebook, Twitter, and Instagram have transformed the way we communicate, share information, and interact with others. While there are many benefits to this increased connectivity, there are also significant challenges, such as the spread of misinformation and the impact on mental health. It is crucial for individuals to develop digital literacy skills to navigate this complex landscape effectively.",
+          "answer": "D",
+          "explanation": "The best choice is 'The role of technology in shaping human behavior' because it accurately captures the main idea of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "z3a8e5d1-6qig-4b2e-8c38-f5d9e7a9b3g0",
+          "number": 24,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It provides an example to illustrate a broader point made earlier in the text.", "It introduces a new perspective on the topic being discussed.", "It summarizes the main argument of the text.", "It offers a counterargument to a claim made in the previous paragraph."],
+          "passage": "The new policy aims to reduce carbon emissions by encouraging the use of renewable energy sources. For example, the government has introduced subsidies for solar and wind power projects, making it more affordable for companies to invest in clean energy. Additionally, the policy includes measures to improve energy efficiency in buildings and transportation.",
+          "answer": "A",
+          "explanation": "The best choice is 'It provides an example to illustrate a broader point made earlier in the text.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "a4f7d4c2-7rhg-4b3e-8c39-f5d9e8a9b3g1",
+          "number": 25,
+          "text": "Which choice best states the main idea of the text?",
+          "choices": ["The impact of climate change on global ecosystems", "The importance of biodiversity for ecological balance", "The challenges of protecting endangered species", "The role of conservation efforts in preserving natural habitats"],
+          "passage": "Biodiversity is essential for maintaining ecological balance and supporting life on Earth. Each species plays a unique role in its ecosystem, contributing to processes such as pollination, decomposition, and nutrient cycling. However, human activities such as deforestation, pollution, and climate change are threatening biodiversity at an unprecedented rate. Conservation efforts are crucial to preserving natural habitats and protecting endangered species from extinction.",
+          "answer": "B",
+          "explanation": "The best choice is 'The importance of biodiversity for ecological balance' because it accurately captures the main idea of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "b5e6c3b3-8shg-4b4e-8c40-f5d9e9a9b3g2",
+          "number": 26,
+          "text": "Which choice best describes the author's attitude toward the subject?",
+          "choices": ["Cynical", "Optimistic", "Concerned", "Indifferent"],
+          "passage": "As the world becomes more interconnected, the issue of cybersecurity has become increasingly important. Cyberattacks can have devastating consequences, from financial loss to the compromise of sensitive information. The author argues that while progress has been made in developing security measures, there is still much work to be done to protect against emerging threats.",
+          "answer": "C",
+          "explanation": "The best choice is 'Concerned' because it accurately captures the author's attitude toward the subject.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "c6d5b4c4-9thg-4b5e-8c41-f5d9e0a9b3g3",
+          "number": 27,
+          "text": "Which choice best describes the main purpose of the text?",
+          "choices": ["To explain a scientific phenomenon", "To describe the process of an experiment", "To argue for a specific course of action", "To provide an overview of recent research findings"],
+          "passage": "Recent studies have shown that plastic pollution in the oceans is a growing problem. Microplastics, tiny particles of plastic less than 5 millimeters in size, have been found in marine organisms ranging from plankton to whales. These particles can have harmful effects on marine life, including physical injuries and toxic exposure. Researchers are calling for increased efforts to reduce plastic waste and to develop better methods for cleaning up existing pollution.",
+          "answer": "D",
+          "explanation": "The best choice is 'To provide an overview of recent research findings' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        }
+      ]
+    },
+    {
+      "module_id": 2,
+      "subject": "Reading and Writing",
+      "questions": [
+        {
+          "question_id": "1e4a8b21-2a6b-44f1-8b28-1d2e53b3b72f",
+          "number": 1,
+          "text": "Which choice best states the main purpose of the text?",
+          "choices": ["To critique the economic strategies of emerging markets", "To analyze the sociopolitical impacts of globalization", "To discuss the technological advancements in renewable energy", "To explore the consequences of deforestation in the Amazon"],
+          "passage": "Globalization has intricately woven nations into a complex economic tapestry. While it has spurred unprecedented economic growth, it has also exacerbated income disparities and cultural homogenization. Emerging markets grapple with balancing economic ambitions against the preservation of cultural identity. The ongoing dialogue about globalization's merits and pitfalls continues to evolve, shaping policies worldwide.",
+          "answer": "B",
+          "explanation": "The best choice is 'To analyze the sociopolitical impacts of globalization' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "2b5c6d12-3b7d-44f2-8b29-2e3f64c3c84g",
+          "number": 2,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It provides a historical context for the main argument.", "It introduces a counterpoint to the previous claim.", "It elaborates on the socioeconomic consequences discussed earlier.", "It offers a hypothetical scenario to illustrate a point."],
+          "passage": "The Industrial Revolution marked a pivotal era in human history, driving advancements that transformed societies. However, the resultant environmental degradation cannot be overlooked. While industrialization paved the way for modern conveniences, it also precipitated ecological imbalances that we grapple with today. Addressing these legacies requires innovative solutions and sustainable practices.",
+          "answer": "C",
+          "explanation": "The best choice is 'It elaborates on the socioeconomic consequences discussed earlier.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "3c7d8e34-4c8e-45f3-8b30-3f4f75d4d95h",
+          "number": 3,
+          "text": "Which choice completes the text with the most logical and precise word or phrase?",
+          "choices": ["obfuscate", "illuminate", "perpetuate", "exacerbate"],
+          "passage": "The recent policy changes have done little to <u>_______</u> the underlying issues within the healthcare system. Instead, they have highlighted the need for comprehensive reform to address systemic inefficiencies.",
+          "answer": "B",
+          "explanation": "The best choice is 'illuminate' because it accurately completes the sentence to convey the intended meaning of the text.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "4d8e9f45-5d9f-46f4-8b31-4f5f86e5e96i",
+          "number": 4,
+          "text": "Which choice best describes the tone of the text?",
+          "choices": ["Cautionary", "Indifferent", "Nostalgic", "Amused"],
+          "passage": "As the city expanded, the once picturesque countryside began to transform into an urban sprawl. Rolling hills and serene landscapes gave way to concrete structures and bustling streets. The residents, who once enjoyed the tranquility of rural life, now found themselves grappling with the challenges of urbanization. This rapid change serves as a reminder of the delicate balance between development and conservation.",
+          "answer": "A",
+          "explanation": "The best choice is 'Cautionary' because it accurately captures the tone of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "5e9f0g56-6eaf-47f5-8b32-5g6g97f6f97j",
+          "number": 5,
+          "text": "Which choice best states the main purpose of the text?",
+          "choices": ["To highlight the historical significance of an ancient artifact", "To discuss the environmental impact of plastic waste", "To advocate for increased recycling efforts", "To explain the chemical process of plastic decomposition"],
+          "passage": "Plastic pollution has emerged as a formidable environmental challenge. Each year, millions of tons of plastic waste infiltrate the oceans, causing severe harm to marine life. Microplastics, in particular, have been found in the digestive systems of a myriad of species, posing risks to both wildlife and human health. Addressing this issue requires concerted global efforts and innovative waste management solutions.",
+          "answer": "B",
+          "explanation": "The best choice is 'To discuss the environmental impact of plastic waste' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "6g0h1i67-7fbf-48g6-8b33-6h7h08g7g08k",
+          "number": 6,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It provides a solution to the problem discussed.", "It highlights a significant consequence of the issue.", "It introduces a new perspective on the topic.", "It offers a counterargument to the main point."],
+          "passage": "Deforestation in the Amazon rainforest has reached alarming rates, driven by agricultural expansion and illegal logging. The loss of these forests not only threatens biodiversity but also accelerates climate change. Forests act as carbon sinks, absorbing carbon dioxide from the atmosphere. Their destruction releases vast amounts of greenhouse gases, exacerbating global warming.",
+          "answer": "B",
+          "explanation": "The best choice is 'It highlights a significant consequence of the issue.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "7h1i2j78-8gcf-49h7-8b34-7i8i19h8h19l",
+          "number": 7,
+          "text": "Which choice completes the text with the most logical and precise word or phrase?",
+          "choices": ["engender", "alleviate", "disseminate", "mitigate"],
+          "passage": "The new policy aims to <u>_______</u> the effects of air pollution by promoting the use of electric vehicles and renewable energy sources.",
+          "answer": "D",
+          "explanation": "The best choice is 'mitigate' because it accurately completes the sentence to convey the intended meaning of the text.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "8i2j3k89-9hdg-40i8-8b35-8j9j20i9i20m",
+          "number": 8,
+          "text": "Which choice best describes the tone of the text?",
+          "choices": ["Skeptical", "Reverent", "Wistful", "Critical"],
+          "passage": "The ancient ruins stood as a testament to a civilization long gone. Intricate carvings and towering pillars evoked a sense of awe and reverence. Each stone seemed to whisper tales of a bygone era, inviting visitors to imagine the grandeur and complexity of a society that once thrived in this very place.",
+          "answer": "B",
+          "explanation": "The best choice is 'Reverent' because it accurately captures the tone of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "9j3k4l90-0ieg-41j9-8b36-9k0k21j0j21n",
+          "number": 9,
+          "text": "Which choice best states the main purpose of the text?",
+          "choices": ["To explore the psychological effects of solitude", "To analyze the economic benefits of urbanization", "To discuss the health impacts of noise pollution", "To advocate for the preservation of natural habitats"],
+          "passage": "Solitude, often perceived as a negative state, can have profound psychological benefits. It allows individuals to reflect, recharge, and gain a deeper understanding of themselves. In a world that constantly demands attention and interaction, moments of solitude offer a rare opportunity for introspection and personal growth. Embracing solitude can lead to increased creativity, improved focus, and overall mental well-being.",
+          "answer": "A",
+          "explanation": "The best choice is 'To explore the psychological effects of solitude' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "0k4l5m01-1jfg-42k0-8b37-0l1l22k1k22o",
+          "number": 10,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It presents a counterargument to the main claim.", "It provides evidence to support the author's perspective.", "It introduces a new topic for discussion.", "It summarizes the previous points made."],
+          "passage": "As the debate over climate change intensifies, scientists continue to present compelling evidence of its impacts. Rising temperatures, melting ice caps, and increased frequency of extreme weather events are all indicators of a changing climate. Critics argue that these changes are part of natural cycles, but the overwhelming consensus in the scientific community points to human activities as the primary driver. Immediate and sustained action is necessary to mitigate these effects.",
+          "answer": "B",
+          "explanation": "The best choice is 'It provides evidence to support the author's perspective.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "1l5m6n12-2khg-43l1-8b38-1m2m23l2l23p",
+          "number": 11,
+          "text": "Which choice completes the text with the most logical and precise word or phrase?",
+          "choices": ["extrapolate", "ameliorate", "exacerbate", "perpetuate"],
+          "passage": "The ongoing conflict in the region has only served to <u>_______</u> the humanitarian crisis, displacing thousands of families and creating a dire need for international aid.",
+          "answer": "C",
+          "explanation": "The best choice is 'exacerbate' because it accurately completes the sentence to convey the intended meaning of the text.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "2m6n7o23-3lhi-44m2-8b39-2n3n24m3m24q",
+          "number": 12,
+          "text": "Which choice best describes the tone of the text?",
+          "choices": ["Despondent", "Nostalgic", "Indignant", "Fervent"],
+          "passage": "The rallying cries of protestors echoed through the streets, demanding justice and equality. Their voices, filled with passion and determination, reverberated off the buildings, creating a powerful chorus that could not be ignored. This movement, born out of a deep sense of injustice, sought to challenge the status quo and bring about meaningful change.",
+          "answer": "D",
+          "explanation": "The best choice is 'Fervent' because it accurately captures the tone of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "3n7o8p34-4mij-45n3-8b40-3o4o25n4n25r",
+          "number": 13,
+          "text": "Which choice best states the main purpose of the text?",
+          "choices": ["To describe the historical significance of a landmark", "To analyze the causes and effects of economic inequality", "To discuss the benefits of technological innovation", "To explore the environmental impacts of deforestation"],
+          "passage": "Economic inequality has become a defining issue of our time. The widening gap between the wealthy and the poor has profound implications for social stability and economic growth. While technological advancements and globalization have contributed to economic expansion, they have also exacerbated disparities. Addressing this complex issue requires multifaceted strategies and collaborative efforts from governments, businesses, and communities.",
+          "answer": "B",
+          "explanation": "The best choice is 'To analyze the causes and effects of economic inequality' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "4o8p9q45-5njk-46o4-8b41-4p5p26o5o26s",
+          "number": 14,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It provides a counterargument to the main claim.", "It elaborates on a point made earlier in the text.", "It introduces a new topic for discussion.", "It summarizes the previous points made."],
+          "passage": "The rapid advancement of artificial intelligence has revolutionized various industries, from healthcare to finance. However, this technological leap also raises ethical concerns about privacy and employment. As machines become increasingly capable, the displacement of human workers is a pressing issue that demands attention. Policymakers must navigate these challenges to harness AI's benefits while mitigating its risks.",
+          "answer": "B",
+          "explanation": "The best choice is 'It elaborates on a point made earlier in the text.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "5p9q0r56-6olk-47p5-8b42-5q6q27p6p27t",
+          "number": 15,
+          "text": "Which choice completes the text with the most logical and precise word or phrase?",
+          "choices": ["ameliorate", "exacerbate", "eradicate", "extrapolate"],
+          "passage": "Efforts to <u>_______</u> the water crisis in the region have included building new infrastructure, implementing conservation programs, and promoting sustainable practices among residents.",
+          "answer": "A",
+          "explanation": "The best choice is 'ameliorate' because it accurately completes the sentence to convey the intended meaning of the text.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "6q0r1s67-7plm-48q6-8b43-6r7r28q7q28u",
+          "number": 16,
+          "text": "Which choice best describes the tone of the text?",
+          "choices": ["Contemplative", "Sarcastic", "Admonishing", "Optimistic"],
+          "passage": "As the sun set over the horizon, casting a golden glow over the landscape, she reflected on the day's events. The tranquility of the moment offered a stark contrast to the chaos that had unfolded earlier. It was a time to ponder, to consider the lessons learned, and to find solace in the promise of a new beginning.",
+          "answer": "A",
+          "explanation": "The best choice is 'Contemplative' because it accurately captures the tone of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "7r1s2t78-8qmn-49r7-8b44-7s8s29r8r29v",
+          "number": 17,
+          "text": "Which choice best states the main purpose of the text?",
+          "choices": ["To argue for the benefits of urban green spaces", "To analyze the impact of social media on mental health", "To discuss the challenges of climate change mitigation", "To explore the role of education in societal progress"],
+          "passage": "The role of urban green spaces in enhancing the quality of life for city residents cannot be overstated. Parks and gardens provide a respite from the concrete jungle, offering opportunities for recreation, relaxation, and social interaction. Studies have shown that access to green spaces improves mental health, reduces stress, and fosters a sense of community. As urbanization continues to rise, the preservation and creation of these spaces become increasingly vital.",
+          "answer": "A",
+          "explanation": "The best choice is 'To argue for the benefits of urban green spaces' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "8s2t3u89-9ron-50s8-8b45-8t9t30s9s30w",
+          "number": 18,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It provides evidence to support the main argument.", "It introduces a new perspective on the topic.", "It summarizes the previous points made.", "It offers a counterargument to the main claim."],
+          "passage": "The proliferation of social media has transformed how people interact and communicate. While these platforms offer numerous benefits, including connectivity and information sharing, they also pose significant risks. Studies have linked excessive social media use to mental health issues such as anxiety and depression. Addressing these concerns requires a balanced approach that maximizes the positive aspects of social media while mitigating its negative impacts.",
+          "answer": "A",
+          "explanation": "The best choice is 'It provides evidence to support the main argument.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "9t3u4v90-0spo-51t9-8b46-9u0u31t0t31x",
+          "number": 19,
+          "text": "Which choice completes the text with the most logical and precise word or phrase?",
+          "choices": ["corroborate", "undermine", "vindicate", "refute"],
+          "passage": "The recent findings <u>_______</u> the hypothesis that dietary changes can significantly impact long-term health outcomes, offering new insights into the prevention of chronic diseases.",
+          "answer": "A",
+          "explanation": "The best choice is 'corroborate' because it accurately completes the sentence to convey the intended meaning of the text.",
+          "topic": "Words in Context"
+        },
+        {
+          "question_id": "0u4v5w01-1tqp-52u0-8b47-0v1v32u1u32y",
+          "number": 20,
+          "text": "Which choice best describes the tone of the text?",
+          "choices": ["Empathetic", "Cynical", "Motivational", "Nostalgic"],
+          "passage": "In the face of adversity, the community came together, demonstrating remarkable resilience and solidarity. Volunteers worked tirelessly to provide support and resources to those affected, exemplifying the spirit of unity and compassion. This collective effort not only addressed immediate needs but also fostered a sense of hope and determination for the future.",
+          "answer": "A",
+          "explanation": "The best choice is 'Empathetic' because it accurately captures the tone of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "1v5w6x12-2uru-53v1-8b48-1w2w33v2v33z",
+          "number": 21,
+          "text": "Which choice best states the main purpose of the text?",
+          "choices": ["To analyze the historical significance of a cultural practice", "To discuss the environmental benefits of renewable energy", "To argue for the preservation of endangered species", "To explore the psychological impact of cultural heritage"],
+          "passage": "Cultural heritage sites hold immense psychological significance for communities. They serve as tangible connections to the past, fostering a sense of identity and continuity. Preserving these sites is not merely about maintaining physical structures but also about safeguarding the collective memory and shared values they represent. The loss of cultural heritage can have profound emotional and psychological repercussions, underscoring the importance of preservation efforts.",
+          "answer": "D",
+          "explanation": "The best choice is 'To explore the psychological impact of cultural heritage' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "2w6x7y23-3vsu-54w2-8b49-2x3x34w3w34a",
+          "number": 22,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It provides a counterargument to the main claim.", "It elaborates on a point made earlier in the text.", "It introduces a new topic for discussion.", "It summarizes the previous points made."],
+          "passage": "The transition to renewable energy sources is not only an environmental imperative but also an economic opportunity. As countries invest in solar, wind, and other renewable technologies, they can create jobs and stimulate economic growth. Moreover, reducing reliance on fossil fuels can enhance energy security and mitigate the impacts of climate change. The global shift toward renewables represents a significant step forward in achieving sustainable development.",
+          "answer": "B",
+          "explanation": "The best choice is 'It elaborates on a point made earlier in the text.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "3x7y8z34-4wtv-55x3-8b50-3y4y35x4x35b",
+          "number": 23,
+          "text": "Which choice best describes the tone of the text?",
+          "choices": ["Cynical", "Optimistic", "Pensive", "Sarcastic"],
+          "passage": "As the world grapples with the challenges of climate change, there is a growing sense of urgency to implement sustainable solutions. Innovations in technology and shifts in policy are paving the way for a greener future. While significant hurdles remain, the progress made thus far inspires hope and determination. The collective effort of individuals, communities, and nations is crucial in driving this transformative change.",
+          "answer": "B",
+          "explanation": "The best choice is 'Optimistic' because it accurately captures the tone of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "4y8z9a45-5xuw-56y4-8b51-4z5z36y5y36c",
+          "number": 24,
+          "text": "Which choice best states the main purpose of the text?",
+          "choices": ["To analyze the causes of economic inequality", "To discuss the health benefits of physical exercise", "To argue for the importance of space exploration", "To explore the role of technology in education"],
+          "passage": "The integration of technology in education has revolutionized the learning experience. Interactive tools, online resources, and virtual classrooms have made education more accessible and engaging. These advancements not only enhance the quality of education but also prepare students for a digital future. However, it is essential to address the digital divide to ensure that all students can benefit from these technological innovations.",
+          "answer": "D",
+          "explanation": "The best choice is 'To explore the role of technology in education' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        },
+        {
+          "question_id": "5z9a0b56-6yvx-57z5-8b52-5a6a37z6z37d",
+          "number": 25,
+          "text": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+          "choices": ["It provides an example to support a claim.", "It introduces a new argument.", "It offers a counterexample.", "It summarizes the previous discussion."],
+          "passage": "The benefits of regular physical exercise extend beyond physical health. Engaging in activities such as running, swimming, or yoga can improve mental well-being, reduce stress, and enhance cognitive function. Exercise promotes the release of endorphins, which are chemicals in the brain that act as natural mood lifters. These effects underscore the holistic value of incorporating physical activity into daily routines.",
+          "answer": "A",
+          "explanation": "The best choice is 'It provides an example to support a claim.' because it accurately captures the function of the underlined sentence in the context of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "6a0b1c67-7zwx-58a6-8b53-6b7b38a7a38e",
+          "number": 26,
+          "text": "Which choice best describes the tone of the text?",
+          "choices": ["Inquisitive", "Reproachful", "Nostalgic", "Exuberant"],
+          "passage": "The scientist's groundbreaking research opened new frontiers in the field of genetics. Her discoveries, hailed as revolutionary, paved the way for advancements in medical treatments and personalized medicine. The excitement in the scientific community was palpable, as her work promised to unlock the mysteries of human DNA and transform healthcare as we know it.",
+          "answer": "D",
+          "explanation": "The best choice is 'Exuberant' because it accurately captures the tone of the passage.",
+          "topic": "Craft and Structure"
+        },
+        {
+          "question_id": "7b1c2d78-8ayz-59b7-8b54-7c8c39b8b39f",
+          "number": 27,
+          "text": "Which choice best states the main purpose of the text?",
+          "choices": ["To critique modern architectural practices", "To advocate for the preservation of historical landmarks", "To analyze the psychological impact of urban design", "To discuss the environmental effects of construction"],
+          "passage": "Urban design plays a crucial role in shaping the psychological well-being of city dwellers. Well-planned public spaces, green areas, and pedestrian-friendly infrastructure contribute to a sense of community and improve the quality of life. Conversely, poorly designed urban environments can lead to feelings of isolation and stress. As cities continue to grow, incorporating principles of humane urban design is essential for fostering vibrant and healthy communities.",
+          "answer": "C",
+          "explanation": "The best choice is 'To analyze the psychological impact of urban design' because it accurately captures the main purpose of the text.",
+          "topic": "Central Ideas and Details"
+        }
+      ]
+    },
+    {
+      "module_id": 3,
+      "subject": "Math",
+      "questions": [
+        {
+          "question_id": "223e4567-e89b-12d3-a456-426614174111",
+          "number": 1,
+          "text": "If \\(3x - 2 = 16\\), what is the value of \\(x\\)?",
+          "choices": ["6", "7", "8", "9"],
+          "answer": "A",
+          "explanation": "To solve for \\(x\\), add 2 to both sides of the equation to get \\(3x = 18\\), then divide by 3 to get \\(x = 6\\).",
+          "topic": "Linear equations in one variable"
+        },
+        {
+          "question_id": "223e4567-e89b-12d3-a456-426614174112",
+          "number": 2,
+          "text": "Which of the following is equivalent to \\(\\frac{x^2 + 2x - 3}{x + 3}\\)?",
+          "choices": ["\\(x - 1\\)", "\\(x + 1\\)", "\\(x - 3\\)", "\\(x + 3\\)"],
+          "answer": "A",
+          "explanation": "The expression can be factored as \\(\\frac{(x + 3)(x - 1)}{x + 3}\\), which simplifies to \\(x - 1\\).",
+          "topic": "Equivalent expressions"
+        },
+        {
+          "question_id": "j23e4567-e89b-12d3-a456-426614174129",
+          "number": 3,
+          "text": "If a fair coin is tossed three times, what is the probability of getting exactly two heads?",
+          "choices": ["\\(\\frac{1}{8}\\)", "\\(\\frac{1}{4}\\)", "\\(\\frac{3}{8}\\)", "\\(\\frac{1}{2}\\)"],
+          "answer": "C",
+          "explanation": "The probability of getting exactly two heads in three tosses is calculated by considering the number of favorable outcomes divided by the total number of outcomes: \\((3 \\text{ choose } 2) \\times (\\frac{1}{2})^3 = \\frac{3}{8}\\).",
+          "topic": "Probability and conditional probability"
+        },
+        {
+          "question_id": "423e4567-e89b-12d3-a456-426614174114",
+          "number": 4,
+          "text": "What is the slope of the line that passes through the points (2, 3) and (4, 7)?",
+          "choices": ["2", "3", "4", "1"],
+          "answer": "A",
+          "explanation": "The slope of a line passing through (x1, y1) and (x2, y2) is given by \\(\\frac{y2 - y1}{x2 - x1}\\). Thus, the slope is \\(\\frac{7 - 3}{4 - 2} = \\frac{4}{2} = 2\\).",
+          "topic": "Linear equations in two variables"
+        },
+        {
+          "question_id": "523e4567-e89b-12d3-a456-426614174115",
+          "number": 5,
+          "text": "If the area of a rectangle is 24 square units and its length is 6 units, what is the width of the rectangle?",
+          "choices": ["4", "3", "5", "6"],
+          "answer": "A",
+          "explanation": "The area of a rectangle is given by the formula length \\(\\times\\) width. Thus, width = \\(\\frac{area}{length} = \\frac{24}{6} = 4\\).",
+          "topic": "Area and volume"
+        },
+        {
+          "question_id": "623e4567-e89b-12d3-a456-426614174116",
+          "number": 6,
+          "text": "What is the value of x in the equation \\(x^2 - 4x - 5 = 0\\)?",
+          "choices": ["5", "-5", "1", "2"],
+          "answer": "A",
+          "explanation": "To solve for \\(x\\), factor the quadratic equation: \\((x - 5)(x + 1) = 0\\), giving \\(x = 5\\) or \\(x = -1\\).",
+          "topic": "Nonlinear equations in one variable"
+        },
+        {
+          "question_id": "723e4567-e89b-12d3-a456-426614174117",
+          "number": 7,
+          "text": "If the perimeter of a square is 20 units, what is the length of one side?",
+          "choices": ["4", "5", "6", "7"],
+          "answer": "B",
+          "explanation": "The perimeter of a square is given by \\(4 \\times \\text{side length}\\). Thus, side length = \\(\\frac{perimeter}{4} = \\frac{20}{4} = 5\\).",
+          "topic": "Area and volume"
+        },
+        {
+          "question_id": "823e4567-e89b-12d3-a456-426614174118",
+          "number": 8,
+          "text": "What is the value of y in the equation \\(\\frac{y}{3} + 5 = 9\\)?",
+          "choices": ["12", "15", "9", "10"],
+          "answer": "A",
+          "explanation": "To solve for \\(y\\), subtract 5 from both sides to get \\(\\frac{y}{3} = 4\\), then multiply by 3 to get \\(y = 12\\).",
+          "topic": "Linear equations in one variable"
+        },
+        {
+          "question_id": "923e4567-e89b-12d3-a456-426614174119",
+          "number": 9,
+          "text": "If the circumference of a circle is 31.4 units, what is the radius? (Use \\(\\pi \\approx 3.14\\))",
+          "choices": ["5", "10", "15", "20"],
+          "answer": "A",
+          "explanation": "The circumference of a circle is given by \\(2\\pi r\\). Solving for \\(r\\), we get \\(r = \\frac{circumference}{2\\pi} = \\frac{31.4}{2 \\times 3.14} = 5\\).",
+          "topic": "Circles"
+        },
+        {
+          "question_id": "a23e4567-e89b-12d3-a456-426614174120",
+          "number": 10,
+          "text": "What is the solution to the inequality \\(2x - 5 > 7\\)?",
+          "choices": ["x > 6", "x < 6", "x > 1", "x < 1"],
+          "answer": "A",
+          "explanation": "To solve the inequality, add 5 to both sides to get \\(2x > 12\\), then divide by 2 to get \\(x > 6\\).",
+          "topic": "Linear inequalities in one or two variables"
+        },
+        {
+          "question_id": "b23e4567-e89b-12d3-a456-426614174121",
+          "number": 11,
+          "text": "What is the value of \\(3^2 + 4^2\\)?",
+          "choices": ["25", "12", "17", "20"],
+          "answer": "A",
+          "explanation": "3<sup>2</sup> = 9 and 4<sup>2</sup> = 16. Thus, 3<sup>2</sup> + 4<sup>2</sup> = 9 + 16 = 25.",
+          "topic": "Evaluating Expressions"
+        },
+        {
+          "question_id": "c23e4567-e89b-12d3-a456-426614174122",
+          "number": 12,
+          "text": "If \\(f(x) = 2x + 3\\), what is \\(f(2)\\)?",
+          "choices": ["5", "6", "7", "8"],
+          "answer": "C",
+          "explanation": "Substitute 2 for x in the function: \\(f(2) = 2(2) + 3 = 4 + 3 = 7\\).",
+          "topic": "Linear functions"
+        },
+        {
+          "question_id": "d23e4567-e89b-12d3-a456-426614174123",
+          "number": 13,
+          "text": "What is the value of x in the equation \\(3x + 4 = 19\\)?",
+          "choices": ["5", "6", "7", "8"],
+          "answer": "A",
+          "explanation": "To solve for \\(x\\), subtract 4 from both sides to get \\(3x = 15\\), then divide by 3 to get \\(x = 5\\).",
+          "topic": "Linear equations in one variable"
+        },
+        {
+          "question_id": "e23e4567-e89b-12d3-a456-426614174124",
+          "number": 14,
+          "text": "If the volume of a cube is 27 cubic units, what is the length of one side?",
+          "choices": ["3", "4", "5", "6"],
+          "answer": "A",
+          "explanation": "The volume of a cube is given by side<sup>3</sup>. Thus, side = \\(\\sqrt[3]{27} = 3\\).",
+          "topic": "Area and volume"
+        },
+        {
+          "question_id": "f23e4567-e89b-12d3-a456-426614174125",
+          "number": 15,
+          "text": "If the total cost of 5 pencils is $3.75, what is the cost of one pencil?",
+          "choices": ["$0.75", "$0.70", "$0.80", "$0.85"],
+          "answer": "A",
+          "explanation": "To find the cost of one pencil, divide the total cost by the number of pencils: $3.75 / 5 = $0.75.",
+          "topic": "Ratios, rates, proportional relationships, and units"
+        },
+        {
+          "question_id": "g23e4567-e89b-12d3-a456-426614174126",
+          "number": 16,
+          "text": "If a car travels 60 miles in 1.5 hours, what is its average speed in miles per hour?",
+          "choices": ["40 mph", "45 mph", "50 mph", "55 mph"],
+          "answer": "A",
+          "explanation": "To find the average speed, divide the distance traveled by the time taken: 60 miles / 1.5 hours = 40 mph.",
+          "topic": "Ratios, rates, proportional relationships, and units"
+        },
+        {
+          "question_id": "h23e4567-e89b-12d3-a456-426614174127",
+          "number": 17,
+          "text": "If 30% of a number is 24, what is the number?",
+          "choices": ["80", "60", "100", "120"],
+          "answer": "A",
+          "explanation": "Let the number be x. Then, 0.3x = 24. Solving for x, we get x = 24 / 0.3 = 80.",
+          "topic": "Percentages"
+        },
+        {
+          "question_id": "i23e4567-e89b-12d3-a456-426614174128",
+          "number": 18,
+          "text": "If the mean of the numbers 4, 6, 8, 10, and 12 is added to 10, what is the new mean?",
+          "choices": ["9", "10", "11", "12"],
+          "answer": "B",
+          "explanation": "The mean of 4, 6, 8, 10, and 12 is \\(\\frac{4 + 6 + 8 + 10 + 12}{5} = 8\\). Adding 10 to each number results in 14, 16, 18, 20, and 22. The mean of these numbers is \\(\\frac{14 + 16 + 18 + 20 + 22}{5} = 18\\). So, the new mean is 18.",
+          "topic": "One-variable data: distributions and measures of center and spread"
+        },
+        {
+          "question_id": "j23e4567-e89b-12d3-a456-426614174129",
+          "number": 19,
+          "text": "If a fair coin is tossed three times, what is the probability of getting exactly two heads?",
+          "choices": ["\\(\\frac{1}{8}\\)", "\\(\\frac{1}{4}\\)", "\\(\\frac{3}{8}\\)", "\\(\\frac{1}{2}\\)"],
+          "answer": "C",
+          "explanation": "The probability of getting exactly two heads in three tosses is calculated by considering the number of favorable outcomes divided by the total number of outcomes: \\((3 \\text{ choose } 2) \\times (\\frac{1}{2})^3 = \\frac{3}{8}\\).",
+          "topic": "Probability and conditional probability"
+        },
+        {
+          "question_id": "k23e4567-e89b-12d3-a456-426614174130",
+          "number": 20,
+          "text": "If the diameter of a circle is 14 units, what is the area of the circle? (Use \\(\\pi \\approx 3.14\\))",
+          "choices": ["49\\(\\pi\\)", "98\\(\\pi\\)", "154\\(\\pi\\)", "196\\(\\pi\\)"],
+          "answer": "A",
+          "explanation": "The radius of the circle is 7 units (diameter / 2). The area of the circle is given by \\(\\pi r^2 = \\pi (7^2) = 49\\pi\\) square units.",
+          "topic": "Circles"
+        },
+        {
+          "question_id": "l23e4567-e89b-12d3-a456-426614174131",
+          "number": 21,
+          "text": "A right triangle has legs of length 6 units and 8 units. What is the length of the hypotenuse?",
+          "choices": ["10", "12", "14", "16"],
+          "answer": "A",
+          "explanation": "Use the Pythagorean theorem: \\(a^2 + b^2 = c^2\\). Thus, \\(6^2 + 8^2 = c^2\\), giving \\(36 + 64 = 100\\), so \\(c = 10\\).",
+          "topic": "Right triangles and trigonometry"
+        },
+        {
+          "question_id": "m23e4567-e89b-12d3-a456-426614174132",
+          "number": 22,
+          "text": "What is the value of x in the equation \\(2x^2 - 8 = 0\\)?",
+          "choices": ["2", "-2", "4", "-4"],
+          "answer": "A",
+          "explanation": "To solve for \\(x\\), add 8 to both sides to get \\(2x^2 = 8\\), then divide by 2 to get \\(x^2 = 4\\), so \\(x = \\pm 2\\).",
+          "topic": "Nonlinear equations in one variable"
+        }
+      ]
+    },
+    {
+      "module_id": 4,
+      "subject": "Math",
+      "questions": [
+        {
+          "question_id": "623e4567-e89b-12d3-a456-426614174211",
+          "number": 1,
+          "text": "Solve for x: \\(4x^2 - 12x + 9 = 0\\)",
+          "choices": ["1", "\\(\\frac{3}{2}\\)", "2", "3"],
+          "answer": "B",
+          "explanation": "To solve the quadratic equation \\(4x^2 - 12x + 9 = 0\\), use the quadratic formula \\(x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\\). Here, \\(a = 4\\), \\(b = -12\\), and \\(c = 9\\). Solving gives \\(x = \\frac{3}{2}\\).",
+          "topic": "Solving Quadratic Equations"
+        },
+        {
+          "question_id": "723e4567-e89b-12d3-a456-426614174212",
+          "number": 2,
+          "text": "What is the value of the expression \\((3x^2 - 2x + 4) - (2x^2 + 3x - 5)\\) when \\(x = 2\\)?",
+          "choices": ["-1", "5", "9", "15"],
+          "answer": "B",
+          "explanation": "First simplify the expression: \\((3x^2 - 2x + 4) - (2x^2 + 3x - 5) = x^2 - 5x + 9\\). Substitute \\(x = 2\\): \\((2^2 - 5(2) + 9) = (4 - 10 + 9) = 3\\).",
+          "topic": "Equivalent Expressions"
+        },
+        {
+          "question_id": "823e4567-e89b-12d3-a456-426614174213",
+          "number": 3,
+          "text": "Solve the system of equations: \\(2x + 3y = 7\\) and \\(x - y = 2\\)",
+          "choices": ["(1, 2)", "(2, 1)", "(3, 1)", "(1, 1)"],
+          "answer": "B",
+          "explanation": "Solve the second equation for \\(x\\): \\(x = y + 2\\). Substitute into the first equation: \\(2(y + 2) + 3y = 7 \\Rightarrow 2y + 4 + 3y = 7 \\Rightarrow 5y = 3 \\Rightarrow y = 1\\), \\(x = 3\\).",
+          "topic": "Systems of Two Linear Equations"
+        },
+        {
+          "question_id": "923e4567-e89b-12d3-a456-426614174214",
+          "number": 4,
+          "text": "What is the sum of the solutions to the equation \\(x^2 - 5x + 6 = 0\\)?",
+          "choices": ["2", "3", "5", "6"],
+          "answer": "C",
+          "explanation": "The equation factors to \\((x - 2)(x - 3) = 0\\), so the solutions are \\(x = 2\\) and \\(x = 3\\). Their sum is \\(2 + 3 = 5\\).",
+          "topic": "Nonlinear Equations in One Variable"
+        },
+        {
+          "question_id": "a23e4567-e89b-12d3-a456-426614174215",
+          "number": 5,
+          "text": "If the height of a cylinder is doubled and the radius is halved, what happens to the volume?",
+          "choices": ["Doubles", "Halves", "Remains the same", "Quadruples"],
+          "answer": "C",
+          "explanation": "The volume of a cylinder is given by \\(V = \\pi r^2 h\\). Doubling the height and halving the radius gives \\(V = \\pi (0.5r)^2 (2h) = \\pi (0.25r^2)(2h) = \\pi r^2 h\\), so the volume remains the same.",
+          "topic": "Area and Volume"
+        },
+        {
+          "question_id": "b23e4567-e89b-12d3-a456-426614174216",
+          "number": 6,
+          "text": "What is the solution to the inequality \\(3(x - 2) > 2x + 1\\)?",
+          "choices": ["x > 7", "x < 7", "x > 5", "x < 5"],
+          "answer": "A",
+          "explanation": "First, distribute 3: \\(3x - 6 > 2x + 1\\). Then, subtract 2x from both sides: \\(x - 6 > 1\\). Add 6 to both sides: \\(x > 7\\).",
+          "topic": "Linear Inequalities in One or Two Variables"
+        },
+        {
+          "question_id": "c23e4567-e89b-12d3-a456-426614174217",
+          "number": 7,
+          "text": "The function \\(f(x) = 3x^2 - 2x + 1\\) is transformed to \\(g(x) = 3(x - 2)^2 - 2(x - 2) + 1\\). What is the value of \\(g(3)\\)?",
+          "choices": ["1", "2", "3", "4"],
+          "answer": "B",
+          "explanation": "Substitute \\(x = 3\\) into the transformed function \\(g(x)\\) to get \\(g(3) = 3(3 - 2)^2 - 2(3 - 2) + 1 = 3(1)^2 - 2(1) + 1 = 3 - 2 + 1 = 2\\).",
+          "topic": "Nonlinear Functions"
+        },
+        {
+          "question_id": "d23e4567-e89b-12d3-a456-426614174218",
+          "number": 8,
+          "text": "What is the distance between the points (3, 4) and (7, 1)?",
+          "choices": ["5", "6", "7", "8"],
+          "answer": "A",
+          "explanation": "Use the distance formula: \\(\\sqrt{(x2 - x1)^2 + (y2 - y1)^2}\\). The distance between (3, 4) and (7, 1) is \\(\\sqrt{(7 - 3)^2 + (4 - 1)^2} = \\sqrt{16 + 9} = \\sqrt{25} = 5\\).",
+          "topic": "Lines, Angles, and Triangles"
+        },
+        {
+          "question_id": "e23e4567-e89b-12d3-a456-426614174219",
+          "number": 9,
+          "text": "If the sides of a triangle are 5 units, 12 units, and 13 units, is the triangle a right triangle?",
+          "choices": ["Yes", "No", "Cannot be determined", "Only if it's isosceles"],
+          "answer": "A",
+          "explanation": "Use the Pythagorean theorem: \\(a^2 + b^2 = c^2\\). Here, \\(5^2 + 12^2 = 13^2\\), so \\(25 + 144 = 169\\), thus it's a right triangle.",
+          "topic": "Right Triangles and Trigonometry"
+        },
+        {
+          "question_id": "f23e4567-e89b-12d3-a456-426614174220",
+          "number": 10,
+          "text": "What is the value of x in the exponential equation \\(2^x = 8\\)?",
+          "choices": ["2", "3", "4", "5"],
+          "answer": "B",
+          "explanation": "Since 8 is \\(2^3\\), the equation \\(2^x = 8\\) can be written as \\(2^x = 2^3\\). Thus, \\(x = 3\\).",
+          "topic": "Nonlinear Equations in One Variable"
+        },
+        {
+          "question_id": "g23e4567-e89b-12d3-a456-426614174221",
+          "number": 11,
+          "text": "What is the range of the function \\(f(x) = -2x^2 + 3\\)?",
+          "choices": ["(-∞, 3]", "(-∞, ∞)", "[3, ∞)", "(-∞, 3)"],
+          "answer": "A",
+          "explanation": "Since \\(f(x) = -2x^2 + 3\\) is a downward-facing parabola, the maximum value is 3. Therefore, the range is \\((-∞, 3]\\).",
+          "topic": "Nonlinear Functions"
+        },
+        {
+          "question_id": "h23e4567-e89b-12d3-a456-426614174222",
+          "number": 12,
+          "text": "A circle has a radius of 5 units. What is the circumference?",
+          "choices": ["10\\(\\pi\\)", "5\\(\\pi\\)", "15\\(\\pi\\)", "20\\(\\pi\\)"],
+          "answer": "A",
+          "explanation": "The circumference of a circle is given by \\(2\\pi r\\). For a circle with radius 5, the circumference is \\(2\\pi(5) = 10\\pi\\) units.",
+          "topic": "Circles"
+        },
+        {
+          "question_id": "i23e4567-e89b-12d3-a456-426614174223",
+          "number": 13,
+          "text": "What is the equation of the line that passes through the point (2, 3) with a slope of 4?",
+          "choices": ["y = 4x + 1", "y = 4x - 5", "y = 4x + 5", "y = 4x - 3"],
+          "answer": "B",
+          "explanation": "Using the point-slope form \\(y - y1 = m(x - x1)\\), where m is the slope, we get \\(y - 3 = 4(x - 2)\\), which simplifies to \\(y = 4x - 5\\).",
+          "topic": "Linear Functions"
+        },
+        {
+          "question_id": "j23e4567-e89b-12d3-a456-426614174224",
+          "number": 14,
+          "text": "A data set has a mean of 50 and a standard deviation of 5. What is the z-score for a value of 60?",
+          "choices": ["1", "2", "2.5", "3"],
+          "answer": "B",
+          "explanation": "The z-score is calculated as \\(\\frac{X - \\mu}{\\sigma}\\). Here, \\(\\frac{60 - 50}{5} = 2\\).",
+          "topic": "One-variable data: distributions and measures of center and spread"
+        },
+        {
+          "question_id": "k23e4567-e89b-12d3-a456-426614174225",
+          "number": 15,
+          "text": "If a survey shows that 20 out of 100 people prefer a new product, what is the margin of error for the survey at a 95% confidence level?",
+          "choices": ["2%", "5%", "8%", "10%"],
+          "answer": "D",
+          "explanation": "The margin of error (E) can be approximated by \\(\\frac{1}{\\sqrt{n}}\\) for a 95% confidence level. Here, \\(n = 100\\), so \\(E = \\frac{1}{\\sqrt{100}} = 0.1\\) or 10%.",
+          "topic": "Inference from sample statistics and margin of error"
+        },        
+        {
+          "question_id": "z23e4567-e89b-12d3-a456-426614174240",
+          "number": 16,
+          "text": "A function \\(f(x) = x^2 - 4x + 4\\) is transformed to \\(g(x) = (x - 2)^2\\). What is the vertex of \\(g(x)\\)?",
+          "choices": ["(2, 0)", "(0, 4)", "(-2, 4)", "(-2, 0)"],
+          "answer": "A",
+          "explanation": "The vertex form of the quadratic function \\(g(x) = (x - 2)^2\\) is \\((h, k)\\) where \\(h = 2\\) and \\(k = 0\\).",
+          "topic": "Nonlinear Functions"
+        },
+        {
+          "question_id": "m23e4567-e89b-12d3-a456-426614174227",
+          "number": 17,
+          "text": "The equation of a circle is \\((x - 2)^2 + (y + 3)^2 = 25\\). What is the radius of the circle?",
+          "choices": ["3", "4", "5", "6"],
+          "answer": "C",
+          "explanation": "The equation of a circle in standard form is \\((x - h)^2 + (y - k)^2 = r^2\\), where \\((h, k)\\) is the center and \\(r\\) is the radius. Here, \\(r^2 = 25\\), so \\(r = 5\\).",
+          "topic": "Circles"
+        },
+        {
+          "question_id": "n23e4567-e89b-12d3-a456-426614174228",
+          "number": 18,
+          "text": "Solve for x: \\(5x^2 - 20 = 0\\)",
+          "choices": ["2", "4", "\\(\\pm 2\\)", "\\(\\pm 4\\)"],
+          "answer": "C",
+          "explanation": "Add 20 to both sides to get \\(5x^2 = 20\\). Divide by 5 to get \\(x^2 = 4\\). Take the square root of both sides to get \\(x = \\pm 2\\).",
+          "topic": "Nonlinear Equations in One Variable"
+        },
+        {
+          "question_id": "o23e4567-e89b-12d3-a456-426614174229",
+          "number": 19,
+          "text": "If a rectangle's length is increased by 50% and width is decreased by 20%, what is the percent change in the area?",
+          "choices": ["20%", "30%", "40%", "50%"],
+          "answer": "A",
+          "explanation": "Let original length be \\(L\\) and width be \\(W\\). Original area = \\(LW\\). New length = 1.5\\(L\\), new width = 0.8\\(W\\). New area = 1.5\\(L\\) \\(\\times\\) 0.8\\(W\\) = 1.2\\(LW\\). Percent change = \\(\\frac{(1.2LW - LW)}{LW} \\times 100% = 20%\\).",
+          "topic": "Ratios, rates, proportional relationships, and units"
+        },
+        {
+          "question_id": "p23e4567-e89b-12d3-a456-426614174230",
+          "number": 20,
+          "text": "What is the probability of drawing two aces consecutively from a standard deck of cards without replacement?",
+          "choices": ["\\(\\frac{1}{169}\\)", "\\(\\frac{1}{221}\\)", "\\(\\frac{1}{1326}\\)", "\\(\\frac{1}{52}\\)"],
+          "answer": "B",
+          "explanation": "Probability of drawing first ace = \\(\\frac{4}{52}\\). Probability of drawing second ace = \\(\\frac{3}{51}\\). Total probability = \\(\\frac{4}{52} \\times \\frac{3}{51} = \\frac{1}{221}\\).",
+          "topic": "Probability and conditional probability"
+        },
+        {
+          "question_id": "t23e4567-e89b-12d3-a456-426614174234",
+          "number": 21,
+          "text": "Solve the system of inequalities: \\(y > 2x - 3\\) and \\(y \\leq -x + 4\\)",
+          "choices": ["y > -3", "y \\leq 4", "2x - 3 < y \\leq -x + 4", "y \\leq -x + 4"],
+          "answer": "C",
+          "explanation": "The solution to the system is the region where both inequalities are true: 2x - 3 < y and y \\leq -x + 4.",
+          "topic": "Linear Inequalities in One or Two Variables"
+        },
+        {
+          "question_id": "u23e4567-e89b-12d3-a456-426614174235",
+          "number": 22,
+          "text": "The function \\(f(x) = x^2 - 4x + 4\\) is transformed to \\(g(x) = (x - 2)^2\\). What is the value of \\(g(3)\\)?",
+          "choices": ["1", "4", "7", "9"],
+          "answer": "A",
+          "explanation": "Substitute \\(x = 3\\) into the transformed function \\(g(x)\\): \\(g(3) = (3 - 2)^2 = 1\\).",
+          "topic": "Nonlinear Functions"
+        }
+      ]
+    }
+  ]
+}
